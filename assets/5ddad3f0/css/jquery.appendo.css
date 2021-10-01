@@ -1,0 +1,12 @@
+.appendoButtons { background: #79B4DC; }
+.appendoButtons button {
+    margin-right:10px;
+    display:inline;
+    background:white;
+    font-weight:bold;
+    font-size: 80%;
+}
+.appendo-gii{
+    font-size: 85%;
+}
+
